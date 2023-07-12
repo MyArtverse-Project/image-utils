@@ -1,2 +1,9 @@
+# type checking
+mypy
+
+# Cards
 svgwrite
 Pillow
+
+# psd
+psd-tools
