@@ -1,8 +1,8 @@
 # MyFursona Image Utilities
 
-This repository contains Python scripts advanced image manipulation for generating
+This repository contains Python scripts for advanced image manipulation for generating images and files of your fluffy creatures!
 
-## Directory structore
+## Directory structure
 
 | Folder      | Description                                                                                    | Libraries                   |
 | ----------- | ---------------------------------------------------------------------------------------------- | --------------------------- |
